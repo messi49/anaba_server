@@ -1,0 +1,2 @@
+module ChkPassHelper
+end
